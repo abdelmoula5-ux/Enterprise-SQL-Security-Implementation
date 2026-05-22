@@ -24,7 +24,7 @@ A financial institution requires its database to be secured such that:
 ```sql
 -- ======================================================================
 -- Enterprise Database Security Master Script
--- Author: [Your Name]
+-- Author: HIMOUD ABDELMOULA
 -- ======================================================================
 
 USE master;
